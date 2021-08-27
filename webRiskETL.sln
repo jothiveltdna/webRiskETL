@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "webRiskETL", "webRiskETL\webRiskETL.dtproj", "{A306736D-2EE1-4274-98E0-5734EC532E47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A306736D-2EE1-4274-98E0-5734EC532E47}.Development|Default.ActiveCfg = Development
+		{A306736D-2EE1-4274-98E0-5734EC532E47}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {323E0EB4-9AAD-47C4-8888-D3E07210DDDB}
+	EndGlobalSection
+EndGlobal
